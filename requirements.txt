@@ -4,6 +4,7 @@ langchainhub
 chromadb 
 langchain 
 langgraph  
+langchain-tavily
 tavily-python
 python-dotenv
 google-generativeai
